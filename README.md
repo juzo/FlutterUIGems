@@ -4,9 +4,9 @@
 
 ![Flutter UI Gems](./assets/images/FlutterUIGems.png)
 
-The idea behind the project is to create popular and effective **Flutter UI elements** (even fullscreen layouts) that you can use in your next project or simply learn some new tricks when it comes to animations and structuring.
+The idea behind the project is to create popular and effective **Flutter UI elements** (even fullscreen layouts) that you can use in your next project or simply learn some new tricks for animations and structuring.
 
-The source code is **100% Dart** and in most cases does not rely on any third party library or package except for support for SVG files where needed.
+The source code is **100% Dart** and, in most cases, does not rely on any third-party library or package except for support for SVG files where needed.
 
 ## Requirements
 
@@ -16,7 +16,13 @@ The source code is **100% Dart** and in most cases does not rely on any third pa
 
 ## :gem: Gems
 
-### :gem: 01 - Coming soon...
+### :gem: 01: [Shockwave](gems/01-shockwave/)
+
+Beautiful wave animation effect that ripples through a grid of elements.
+
+<video src="gems/01-shockwave/assets/preview.mp4" placeholder="gems/01-shockwave/assets/preview.png" autoplay loop controls muted title="Showckwave" width="300">
+Sorry, your browser doesn't support HTML 5 video.
+</video>
 
 ## Maintainers
 
